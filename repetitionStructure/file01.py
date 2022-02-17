@@ -5,7 +5,6 @@ description = Input note between zero and ten
 version = 1.0
 """
 
-
 # Variables
 note = int(input("Enter with note: "))
 
